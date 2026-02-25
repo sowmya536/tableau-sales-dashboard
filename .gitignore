@@ -1,0 +1,11 @@
+# Mac system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Tableau temp files
+*.twb~
+*.twbx~
+
+# Thumbnails
+._*
